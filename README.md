@@ -1,3 +1,5 @@
+![GitHub](https://img.shields.io/github/license/mehmetali345/basic-chat?style=for-the-badge)
+
 # Basic Chat
 
 - Basic roomed chat web application.
