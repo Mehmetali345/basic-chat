@@ -13,3 +13,5 @@ npm Package Manager
 - First open command line
 - Second run "npm install" command
 - Third, run the command "npm run dev" and go to "http://localhost:3000/" in any web browser.
+
+If you want to try http://345chat.glitch.me
